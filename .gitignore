@@ -1,0 +1,8 @@
+# Ignore the generated configuration file containing keys
+config.json
+venice_key.txt
+
+# Ignore the local python virtual environment
+venv/
+__pycache__/
+*.pyc
