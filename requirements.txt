@@ -1,0 +1,7 @@
+requests
+sounddevice
+numpy
+pynput
+pyautogui
+pystray
+pillow
